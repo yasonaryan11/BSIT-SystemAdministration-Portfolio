@@ -7,8 +7,6 @@ The purpose of this project is to design the company's IT infrastructure from th
 
 The infrastructure was designed with emphasis on reliability, security, scalability, maintainability, and business requirements.
 
-📄 Complete Infrastructure Plan:
-EnterpriseInfrastructurePlan.pdf
 
 Learning Objectives
 
